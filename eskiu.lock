@@ -1,4 +1,4 @@
 # eskiu.lock: written by eskiuc (eskiuc fetch updates it); do not edit.
 canvas	root	.
-gpu	git	https://github.com/eskiu-packages/gpu	v0.7.2	186bc51bb04e5ba206543bc5b7696b677da983d3
-ui	git	https://github.com/eskiu-packages/ui	v0.7.0	7401cf032e1b9e3c145f08353be0c54daaa460de
+gpu	git	https://github.com/eskiu-packages/gpu	v0.8.0	3fc432bd63f38e7a8060476216e7711fad5e1794
+ui	git	https://github.com/eskiu-packages/ui	v0.8.0	819b12c3c176f5f5d5fab9a3b11e8be32bba661a
